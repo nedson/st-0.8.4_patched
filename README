@@ -4,6 +4,7 @@ Added the following patches:
 + Solarized Colors
 + Scrollback
 + w3m image support
++ clipboard
 
 --------------------
 st - simple terminal
